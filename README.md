@@ -7,13 +7,13 @@ Extensions - small software programs that tailor the browsing experience. They e
 This fun extension replaces all pictures in your tab with a picture of frog. :frog:
 
 ### View before:
-![before](before.png)
+![before](before.PNG)
 
 ### Popup:
-![popup](popup.png)
+![popup](popup.PNG)
 
 ### View after:
-![after](after.png)
+![after](after.PNG)
 
 
 
