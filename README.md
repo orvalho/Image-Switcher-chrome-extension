@@ -5,3 +5,9 @@ Extensions - small software programs that tailor the browsing experience. They e
 
 ## What does Image Switcher extension do?
 This fun extension replaces all pictures in your tab with a picture of frog. :frog:
+
+
+
+Icon was taken from [here.](https://www.freeiconspng.com/img/10588)
+
+Image was taken from [here](https://pixabay.com/en/frog-animal-comic-comic-drawing-3241108)
